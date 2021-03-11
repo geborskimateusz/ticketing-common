@@ -1,7 +1,7 @@
-package common
+package main
 
 import "fmt"
 
-func Hello() {
+func main() {
 	fmt.Println("hello from separate mod")
 }
